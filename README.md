@@ -8,7 +8,7 @@
 
 
 - 🌱 I’m currently learning **Data Structures & Algo.**
-- 👨‍💻 All of my projects are available at [**mic-360**](https://github.com/mic-720)
+- 👨‍💻 All of my projects are available at [**mic-360**](https://github.com/sanketjhaaa)
 -  💬 Ask me about **Anything which includes tech**
 - How to reach me [**Mail**](mailto:sanketjha30@gmail.com)
 
@@ -34,12 +34,12 @@
 </p>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mic-720&show_icons=true&locale=en&layout=compact" alt="mic-720" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanketjhaaa&show_icons=true&locale=en&layout=compact" alt="mic-720" /></p>
 </div>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mic-720&show_icons=true&locale=en" alt="mic-720" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mic-720&" alt="mic-720" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sanketjhaaa&show_icons=true&locale=en" alt="mic-720" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanketjhaaa&" alt="mic-720" /></p>
 </div
 
 <div align="center">
